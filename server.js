@@ -46,10 +46,7 @@ var http = require('http'),
 	
 	
 	 
- }).listen(8125);
+ }).listen(1738);
  
- console.log('Server started on 8125');
- 
- /**
-  * Retrieve League game info
-  */
+ console.log('Server started on 1738');
+
